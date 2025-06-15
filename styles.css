@@ -17,7 +17,7 @@ body {
   height: auto;
   width: 100%;
   max-width: 240px;
-  padding: 1rem;
+  padding: 1.2rem;
   overflow: hidden;
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
@@ -35,7 +35,7 @@ body {
 }
 .content h1 {
   color: hsl(218, 44%, 22%);
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   margin-bottom: 1rem;
   font-weight: 700;
 }
