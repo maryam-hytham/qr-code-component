@@ -16,7 +16,7 @@ body {
 .card {
   height: auto;
   width: 100%;
-  max-width: 320px;
+  max-width: 350px;
   padding: 1rem;
   overflow: hidden;
   border-radius: 20px;
@@ -35,7 +35,6 @@ body {
 }
 .content h3 {
   color: hsl(218, 44%, 22%);
-  font-size: 1.4rem;
   margin-bottom: 1rem;
 }
 .content p {
