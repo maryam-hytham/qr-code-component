@@ -16,7 +16,7 @@ body {
 .card {
   height: auto;
   width: 100%;
-  max-width: 280px;
+  max-width: 240px;
   padding: 1rem;
   overflow: hidden;
   border-radius: 20px;
@@ -35,12 +35,14 @@ body {
 }
 .content h1 {
   color: hsl(218, 44%, 22%);
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   margin-bottom: 1rem;
+  font-weight: 700;
 }
 .content p {
   font-size: 15px;
   color: hsl(216, 15%, 48%);
+  font-weight: 400;
 }
 /*Mobile*/
 @media screen and (max-width: 375px) {
