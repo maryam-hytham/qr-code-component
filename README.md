@@ -20,7 +20,7 @@ This is making a similar design as possible solution using plain html and css.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://maryam-hytham.github.io/qr-code-component/)
+- Live Site URL: [View website here](https://maryam-hytham.github.io/qr-code-component/)
 
 ## My process
 
